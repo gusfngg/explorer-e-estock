@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { ThemeProvider } from 'styled-components';
 
-import App from './App.jsx';
+import { Home } from './pages/Home';
 import theme from './styles/theme';
 import GlobalStyles from './styles/global';
 
